@@ -1,0 +1,15 @@
+{
+  "name": "rangequerybenchmark",
+  "version": "1.0.0",
+  "description": "benchmarking range query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saikiran Rudra",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.3",
+    "mongoose-paginate-v2": "^1.6.3"
+  }
+}
